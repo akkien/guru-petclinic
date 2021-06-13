@@ -1,4 +1,4 @@
-package guru.springframework.gurupetclinic.model;
+package guru.springframework.sfgpetclinic.model;
 import lombok.*;
 import org.springframework.format.annotation.DateTimeFormat;
 
